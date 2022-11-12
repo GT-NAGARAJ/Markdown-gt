@@ -96,7 +96,7 @@ This the code block
 
 <-------example of unordered list ---------->
 
-**There are seven layers in OSI model
+**There are seven layers in OSI model**
 * Application layer 
 * Presentation layer
 * Session layer
