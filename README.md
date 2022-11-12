@@ -93,3 +93,15 @@ This the code block
 |        2   |    4       |     5  |
 |------------|------------|--------|
 
+
+<-------example of unordered list ---------->
+
+**There are seven layers in OSI model
+* Application layer 
+* Presentation layer
+* Session layer
+* Transport Layer
+* Network layer
+* Datalink layer
+* Physical layer
+
