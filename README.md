@@ -96,6 +96,10 @@ This the code block
 
 <-------example of unordered list ---------->
 
+# What is OSI Model
+  * The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network. It was the first standard model for network communications
+  * OSI was introduced in 1983 by representatives of the major computer and telecom companies, and was adopted by ISO as an international standard in 1984.
+
 **There are seven layers in OSI model**
 * Application layer 
 * Presentation layer
